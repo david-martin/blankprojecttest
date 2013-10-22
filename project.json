@@ -3,10 +3,10 @@
   "apps": [{
     "name": "BlankApp (Client Hybrid)",
     "type": "client_hybrid",
-    "repo": "git@github.com:david-martin/blankprojectappclienthybridtest.git"
+    "repo": "https://github.com/david-martin/blankprojectappclienthybridtest.git"
   }, {
     "name": "BlankApp (Cloud node.js)",
     "type": "cloud_nodejs",
-    "repo": "git@github.com:david-martin/blankprojectappcloudnodejstest.git"
+    "repo": "https://github.com/david-martin/blankprojectappcloudnodejstest.git"
   }]
 }
